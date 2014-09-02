@@ -9,6 +9,7 @@ public class Animation {
 	private long animTime; // long takes up more memory than int but can hold
 							// more accurate numbers.
 	private long totalDuration;
+	
 
 	public Animation() {
 		// TODO Auto-generated constructor stub
