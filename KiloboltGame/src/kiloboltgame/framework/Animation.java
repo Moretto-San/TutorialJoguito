@@ -11,6 +11,8 @@ public class Animation {
 	private long totalDuration;
 	
 
+	
+	
 	public Animation() {
 		// TODO Auto-generated constructor stub
 	}
